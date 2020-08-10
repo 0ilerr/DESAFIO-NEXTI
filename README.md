@@ -10,4 +10,4 @@ No **frontend**, execute `npm install` e então execute `npm start`. O projeto e
 ### Obs
 
 O backend está completamente implementado.
-No frontend só o pedido não está implementado.
+No frontend só a entidade 'pedido' não está implementado.
